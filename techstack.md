@@ -3,15 +3,15 @@
 ## Tech Stack
 mcabreradev/netlify-functions-example is built on the following main stack:
 
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [Netlify](https://www.netlify.com/) – Static Web Hosting
-- [ESLint](http://eslint.org/) – Code Review
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [Normalize.css](https://necolas.github.io/normalize.css/) – CSS Pre-processors / Extensions
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [ESLint](http://eslint.org/) – Code Review
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [Netlify](https://www.netlify.com/) – Static Web Hosting
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -21,15 +21,15 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 mcabreradev/netlify-functions-example is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' alt='Netlify'/> [Netlify](https://www.netlify.com/) – Static Web Hosting
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/6361/default_8c8faac34fdcb5b696503f5166b5232ad0adcf6e.png' alt='Normalize.css'/> [Normalize.css](https://necolas.github.io/normalize.css/) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' alt='Netlify'/> [Netlify](https://www.netlify.com/) – Static Web Hosting
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mcabreradev/netlify-functions-example](https://github.com/mcabreradev/netlify-functions-example)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|22<br/>Tools used|01/05/24 <br/>Report generated|
+|22<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
